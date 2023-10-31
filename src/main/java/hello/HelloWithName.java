@@ -13,6 +13,10 @@ public class HelloWithName {
         String name = scanner.nextLine();
 
         System.out.println("Hello " + name);
+        System.out.println("what day is it");
+
+        String day = scanner.nextLine();
+        System.out.println("its" + day + " " + name);
 
     }
 
