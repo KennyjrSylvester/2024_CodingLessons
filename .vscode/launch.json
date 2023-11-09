@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RadiusArea",
+      "request": "launch",
+      "mainClass": "main.RadiusArea",
+      "projectName": "2024_CodingLessons"
+    },
+    {
+      "type": "java",
       "name": "Receipt",
       "request": "launch",
       "mainClass": "main.Receipt",
